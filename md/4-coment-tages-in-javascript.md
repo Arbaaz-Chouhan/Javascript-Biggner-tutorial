@@ -1,0 +1,21 @@
+# COMENT TEGES IN JAVASCRIPT
+[JS-FILE](../js/4-coment-tages-in-javascript.js)
+---
+> singale line coment is use //
+
+> multiple line coment is use (/*) 
+
+```javascript
+
+//document.write("1 ->singal line comment is (//) use");
+
+ /* document.write("2-->FOR ONE OR MORE LINE COMMMENT WE ALWAYS USE SLASEH AND STARTING POINT AND ENDING POINT WE USE START AND SLASH(/*)(/)");
+    document.write("FOR ONE OR MORE LINE COMMMENT WE ALWAYS USE SLASEH AND STARTING POINT AND ENDING POINT WE USE START AND SLASH(/*)(/)");
+    document.write("FOR ONE OR MORE LINE COMMMENT WE ALWAYS USE SLASEH AND STARTING POINT AND ENDING POINT WE USE START AND SLASH(/*)(/)");
+    document.write("FOR ONE OR MORE LINE COMMMENT WE ALWAYS USE SLASEH AND STARTING POINT AND ENDING POINT WE USE START AND SLASH(/*)(/)");
+    document.write("FOR ONE OR MORE LINE COMMMENT WE ALWAYS USE SLASEH AND STARTING POINT AND ENDING POINT WE USE START AND SLASH(/*)(/)");  
+*/
+
+```
+## the and
+
