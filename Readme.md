@@ -1,4 +1,3 @@
----
 # [MD OF JS]
 
 [3-html-tages-in-javascript](/md/3-html-tages-in-javascript.md)
